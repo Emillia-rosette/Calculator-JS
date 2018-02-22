@@ -57,5 +57,6 @@ button {
 }
 
 .display {
-	margin-right: 10px
+	margin-right: 10px;
+	box-shadow: 4px 0px 12px black inset;
 }

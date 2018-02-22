@@ -4,7 +4,7 @@
 
 document.addEventListener("DOMContentLoaded", function(event){
 
-	//declare variables to be used for 
+	//declare variables to be used 
 	var myButtons =  document.getElementsByClassName("buttonNum");
 	var myOutput =   document.getElementById("screen");
 	var myOperator = document.getElementsByClassName("operator");
