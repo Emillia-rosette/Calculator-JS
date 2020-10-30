@@ -1,1 +1,1 @@
-# sparta-js-calculator-homework
+# Calculator 
